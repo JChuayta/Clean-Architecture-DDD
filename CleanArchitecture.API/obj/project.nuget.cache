@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4Nif+RA9kyx7QD1HhrsNmGpp/SxoilSnLe0cJ0GQkCL36TmZq+nCWZhfzUU1O5GvMFGDxqN+R9mFcz6Lrg8Khw==",
+  "dgSpecHash": "De54BGnE0ufIl+RIfNuct+DsesLG1s3lTRI7auxjW6H6X+N3vkDUVT6CPCrwGcQHOcTYtqvpGU/DyZ9bLD9IYw==",
   "success": true,
   "projectFilePath": "D:\\Cursos de UDEMY\\ASP.NET Core\\CleanArchitecture\\CleanArchitecture.API\\CleanArchitecture.API.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,7 @@
     "C:\\Users\\jcmamani\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\jcmamani\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\jcmamani\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.4.0\\fluentvalidation.dependencyinjectionextensions.11.4.0.nupkg.sha512",
-    "C:\\Users\\jcmamani\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\jcmamani\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\jcmamani\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\jcmamani\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\jcmamani\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

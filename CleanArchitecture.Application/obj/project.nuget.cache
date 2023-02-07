@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "d6PZe9Y17RQzMP3I+4vr8+mkymhMaCZVgszMocXl9uAFSFRtDLuWmtKUi8Opna7WL8kwkxzK/RaxpVqMRoeeDg==",
+  "dgSpecHash": "O/tDb6lmyI0ve7lRwXeVJcrrz5Ou5lb2J/1nFbtmq2F8iaMWMYZWXfeb2QEAD/Sr2f1K7Ouk8Uxjr6vtJd/Bvg==",
   "success": true,
   "projectFilePath": "D:\\Cursos de UDEMY\\ASP.NET Core\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "C:\\Users\\jcmamani\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\jcmamani\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\jcmamani\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.4.0\\fluentvalidation.dependencyinjectionextensions.11.4.0.nupkg.sha512",
-    "C:\\Users\\jcmamani\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\jcmamani\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\jcmamani\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\jcmamani\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\jcmamani\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
